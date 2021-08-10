@@ -6,11 +6,10 @@ This is a deposit for HTML projects.
 
 # Included Items
 
-*Transpiler in JS*
+* Transpiler in JS
+* HTML examples
+* Functions 
 
-*Simple Functions for Webpages*
-
-*Webpage examples*
 
 
 
