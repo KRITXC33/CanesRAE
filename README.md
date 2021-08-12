@@ -15,9 +15,9 @@ You pronounce the project's name kay-nz-ray.
 
 # Programs Used
 
-* Visual Studio Code 
-* Codeacademy
-* W3schools.com for output
+* Visual Studio Code, you can download it **[here](https://code.visualstudio.com/)**
+* Codeacademy, you can find it **[here](https://www.codecademy.com/)**
+* W3schools.com for output, find it **[here](https://www.w3schools.com/tags/tag_output.asp)**
 * Github Inc
 
 Thanks for stopping by!
