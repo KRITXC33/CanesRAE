@@ -23,6 +23,13 @@ You pronounce the project's name kay-nz-ray.
 * You have to compile this project yourself.
 * Use the build tool in VSCODE; you can find it **[here](https://code.visualstudio.com/)**
 
+Use the Node.js debugger as
+
+```
+npm install
+
+```
+
 
 
 
