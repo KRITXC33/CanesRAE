@@ -20,7 +20,8 @@ You pronounce the project's name kay-nz-ray.
 * W3schools.com for output, find it **[here](https://www.w3schools.com/tags/tag_output.asp)**
 * Github Inc
 
-Thanks for stopping by!
+* You have to compile this project yourself.
+* Use the build tool in VSCODE; you can find it **[here](https://code.visualstudio.com/)**
 
 
 
