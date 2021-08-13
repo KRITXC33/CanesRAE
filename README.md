@@ -25,10 +25,7 @@ You pronounce the project's name kay-nz-ray.
 
 Use the Node.js debugger as
 
-```
-npm install
 
-```
 
 
 
