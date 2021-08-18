@@ -1,7 +1,7 @@
 
-# Canesrae
+# CanesRae
 
-# What is Canesrae?
+# What is CanesRae?
 This is a deposit for HTML projects.
 
 # Included Items
